@@ -1,0 +1,27 @@
+{{TopMenu}}
+{{Menu}}
+{{Menu.Documentation}}
+{{Menu.FAQ}}
+{{OrigLang|FAQs about using this wiki}}
+
+Before working on the wiki, you must create an account:
+* [[Wiki/FAQ/001|How do I create an account to edit the wiki?]]
+* [[Wiki/FAQ/002|How do I create a new page?]]
+* [[Wiki/FAQ/003|How do I know which FAQ numbers have already been used?]]
+* [[Wiki/FAQ/004|How do I add an image or document on a page?]]
+* [[Wiki/FAQ/005|How can I recover a lost page?]]
+* [[Wiki/FAQ/006|How do I insert a menu at the top of a page?]]
+* [[Wiki/FAQ/007|How do I change the title displayed at the top of a page?]]
+* [[Wiki/FAQ/011|How do I track changes made to a page?]]
+* [[Wiki/FAQ/009|How do I undo a change?]]
+* [[Wiki/FAQ/008|How do I rename/move a page?]]
+* [[Wiki/FAQ/010|How do I delete a page?]]
+* [[Wiki/FAQ/013|Frequently used templates of our wiki]]
+* [[Wiki/FAQ/014|How do I add a web feed in a wiki page]]
+<!--* [[Wiki/FAQ/015|How do I add a Open Street Map to a wiki page]]-->
+* [[Wiki/FAQ/016|How do I embedd a YouTube video]]
+* [[Faq/Rules|Rules to follow when updating FAQs]]
+
+The full help about Wiki markup:
+* http://www.mediawiki.org/wiki/Help:Formatting
+* http://en.wikipedia.org/wiki/Help:Wiki_markup
